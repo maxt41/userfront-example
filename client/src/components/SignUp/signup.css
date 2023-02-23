@@ -1,0 +1,12 @@
+.signup_container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login_link {
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+}

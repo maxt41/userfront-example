@@ -1,0 +1,12 @@
+.index_container {
+    text-align: center;
+}
+
+.index_logout {
+    font-weight: bold;
+    background-color: lightcoral;
+}
+
+.index_logout:hover {
+    box-shadow: 1px 1px 10px 2px;
+}
