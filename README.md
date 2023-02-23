@@ -1,3 +1,3 @@
-# Example MERN app using the UserFront Authorisation system
+# Example MERN app using the UserFront auth system
 
 Created by Max Thomas
